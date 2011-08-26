@@ -1,0 +1,15 @@
+{
+  "name": "syllable",
+  "version": "0.0.0",
+  "description": "IM bot framework.",
+  "author": "Jared Hanson <jaredhanson@gmail.com> (http://www.jaredhanson.net/)",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jaredhanson/syllable.git"
+  },
+  "main": "./lib/syllable",
+  "dependencies": {
+  },
+  "engines": { "node": ">= 0.4.0" },
+  "keywords": ["chat", "im", "bot"]
+}
